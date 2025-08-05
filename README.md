@@ -19,9 +19,24 @@ Its purpose is to provide supporting content, links, notes, and activities focus
 
 This space is open for collaboration: explore, share, and enhance your skills alongside the PUC-SP academic community!
 
-#
 
-<br>
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
