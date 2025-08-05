@@ -1,6 +1,6 @@
 <br>
 
-##  **Humanistic Data Science and Artificial Intelligence (CDIA): Entrepreneurship and Soft Skills**
+##  Humanistic Data Science and Artificial Intelligence (CDIA): [**Entrepreneurship and Soft Skills**]()
 
 <br>
 
