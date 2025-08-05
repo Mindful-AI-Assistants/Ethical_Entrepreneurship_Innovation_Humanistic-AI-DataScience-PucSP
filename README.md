@@ -2,7 +2,12 @@
 
 ##    <p align="center"> Humanistic Data Science and Artificial Intelligence (CDIA): [**Entrepreneurship and Soft Skills**]()
 
-<br>
+
+<br><br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+<br><br>
 
 ###  <p align="center"> [**Introduction for the Repository**]()
 
