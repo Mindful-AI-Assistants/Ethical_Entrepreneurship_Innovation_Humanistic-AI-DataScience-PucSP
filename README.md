@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
-This repository gathers materials and resources on the topic [Humanistic Data Science and Artificial Intelligence (CDIA)]() – Entrepreneurship, Soft Skills, and Business Plans – PUC-SP, led by Professor [Wagner Tufano](). 
+This repository gathers materials and resources on the topic [Humanistic Data Science and Artificial Intelligence (CDIA)]() – Entrepreneurship, Soft Skills, and Business Plans – PUC-SP, led by Professor [Wagner Tufano]() e [Myrt Thânia de Souza Cruz]()_
 
 Its purpose is to provide supporting content, links, notes, and activities focused on developing essential behavioral skills—such as leadership, communication, creativity, critical thinking, and problem-solving—and practical entrepreneurship knowledge, including business plan development, for those who wish to pursue entrepreneurship in the context of CDIA (Data Science, Artificial Intelligence, and related areas).  
 
