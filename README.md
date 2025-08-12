@@ -23,7 +23,8 @@ This space is open for collaboration: explore, share, and enhance your skills al
 <br><br>
 
 
-## [**Entrepreneurship**](): Taking Risks, Identifying Opportunities, and Creating Profitable Businesses
+## [**Entrepreneurship**](): 
+### Taking Risks, Identifying Opportunities, and Creating Profitable Businesses
 
 <br>
 
