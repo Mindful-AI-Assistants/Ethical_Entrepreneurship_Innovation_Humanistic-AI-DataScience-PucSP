@@ -5,7 +5,7 @@
 <br>
 
 
-### [Comfort Zone Exit](): Unlocking Creativity and Entrepreneurial Innovation
+### <p align="center"> [Comfort Zone Exit](): Unlocking Creativity and Entrepreneurial Innovation
 
 
 
