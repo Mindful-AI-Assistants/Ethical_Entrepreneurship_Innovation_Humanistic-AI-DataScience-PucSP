@@ -45,6 +45,25 @@ Venture capital plays a critical role in enabling entrepreneurs to scale their b
 
 <br>
 
+### 3 Common Myths About Entrepreneurship
+
+<br>
+
+1. [**Entrepreneurs are Born, Not Made**]()  
+It is a common myth that entrepreneurs naturally have a "gene" for business or special traits they are born with. In reality, entrepreneurship is a skill that anyone can learn and develop over time. Qualities such as creativity, resilience, willingness to learn from failure, and business acumen can be acquired through experience and education.
+
+<br>
+
+2. [**You Need a Lot of Money to Start a Business**]()  
+Many believe that starting a business requires a large amount of initial capital. However, many successful ventures begin with minimal investment, sometimes as a side hustle. There are also models like franchises or online businesses that allow entrepreneurs to start with lower costs and scale up gradually.
+
+<br>
+
+3. [**You Must Have a Brilliant, Innovative Idea to Succeed**]()   
+Another misconception is that only completely original and revolutionary ideas lead to success. In fact, many thriving businesses are built by improving existing ideas or executing them more effectively. The key is turning an idea into a viable business and adapting it to meet market needs.
+
+
+
 
 
 
