@@ -2,10 +2,11 @@
 
 ##   <p align="center"> Humanistic Data Science and Artificial Intelligence (CDIA): [**Entrepreneurship and Soft Skills**]()
 
-<br>
+
+<br><br>
 
 
-### <p align="center"> [Comfort Zone Exit]() ! ⚡️  Unlocking Creativity and Entrepreneurial Innovation
+https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
