@@ -152,13 +152,13 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 ##  [Marketing](): 🔥 Create That Need 
 
-Don’t just advertise, make them NEED you. Build that desire, solve a problem, and watch customers flock.
+Don’t just advertise, make them [NEED YOU](). Build that desire, solve a problem, and watch customers flock.
 
 
 <br>
 
 
-## [Finance](): Keep Your Cash Flowing 💰
+## [Finance](): Keep Your Cash Flowing 
 
 ### Master your cash game with:
 
@@ -209,6 +209,13 @@ Don’t just advertise, make them NEED you. Build that desire, solve a problem, 
 <br><br>
 
 # III  - [Building...]() 
+
+
+<br>
+
+### ⚡️ [Click here]() to launch the deck!
+
+<br>
 
 
 
