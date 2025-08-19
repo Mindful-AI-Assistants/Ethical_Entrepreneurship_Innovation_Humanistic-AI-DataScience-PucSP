@@ -105,6 +105,23 @@ Packed with insights from [*Business Plan & Angel Investor*]() (Prof. Wagner Tuf
 <br>
 
 
+###   💸 [Angel Investors & Venture Capitals]()
+
+Angel investors = your startup’s fairy godparents. They throw some cash your way, plus give you the wisdom and connections to level up. Venture Capitals? They’re the big players with the deep pockets, ready to help you scale like crazy—but they expect serious returns and a seat at the table.
+
+<br><br>
+
+### [Planning: Your Startup’s GPS]() 
+
+No plan? No glory. Lack of planning is the #1 reason startups bomb. You gotta map out your business, your goals, and your steps. A killer plan means you’re ready to pivot, slide through challenges, and keep on winning.
+
+<br><br>
+
+### 🎯 [Business Model: What’s Your Game ?]() 
+
+Know your hustle. What exactly are you selling? Who’s your tribe? How are you gonna make money? The biz model’s the blueprint that shows how you create value and keep the lights on.
+
+<br><br>
 
 
 
