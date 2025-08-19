@@ -109,19 +109,19 @@ Packed with insights from [*Business Plan & Angel Investor*]() (Prof. Wagner Tuf
 
 Angel investors = your startup’s fairy godparents. They throw some cash your way, plus give you the wisdom and connections to level up. Venture Capitals? They’re the big players with the deep pockets, ready to help you scale like crazy—but they expect serious returns and a seat at the table.
 
-<br><br>
+<br>
 
 ### [Planning: Your Startup’s GPS]() 
 
 No plan? No glory. Lack of planning is the #1 reason startups bomb. You gotta map out your business, your goals, and your steps. A killer plan means you’re ready to pivot, slide through challenges, and keep on winning.
 
-<br><br>
+<br>
 
 ### 🎯 [Business Model: What’s Your Game ?]() 
 
 Know your hustle. What exactly are you selling? Who’s your tribe? How are you gonna make money? The biz model’s the blueprint that shows how you create value and keep the lights on.
 
-<br><br>
+<br>
 
 
 ## [Business Plan: Your Pitch Deck IRL]()
@@ -132,29 +132,29 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 <br>
 
-| Section]()                     | What It Means]()                                      | Why It Matters]()                                   |
+| [Section]()                     | [What It Means]()                                      | [Why It Matters]()                                   |
 |-----------------------------|---------------------------------------------------|-------------------------------------------------|
 | [**Executive Summary**]()        | Your killer opening hook. A sharp summary of the whole plan. | Grabs attention, makes investors want to read more. |
-| **Strategic Analysis**]()       | Your mission & vision—the why and where you're headed. | Shows clear purpose and long-term direction.    |
-| **Business Description**]()     | Who you are, your history, structure, and legal stuff. | Builds credibility and context.                   |
-| **Products/Services**]()        | Detailed look at what you offer, how it’s made, and lifecycle. | Demonstrates innovation and market fit.          |
-| **Organization & Team**]()      | Who's running the show, their skills, and info systems support. | Proves you have the talent and tools to win.     |
-| **Market Analysis**]()          | Market size, customer segmentation, competition. | Shows you’ve done your homework on where you play. |
-| **Industry & Trends**]()        | The wider ecosystem, trends, risks, and opportunities. | Positions your startup against market shifts.   |
-| **Marketing Strategy**]()       | How you'll create demand and steal customers from competitors. | Drives growth and customer acquisition.          |
-| **Financial Plan**]()           | Cash flow, break-even, ROI, IRR, KPIs, projections. | Validates business viability and return potential. |
-| **Appendices**]()               | Extra docs that back up your claims.               | Adds proof and depth without cluttering main plan.|
+| [**Strategic Analysis**]()       | Your mission & vision—the why and where you're headed. | Shows clear purpose and long-term direction.    |
+| [**Business Description**]()     | Who you are, your history, structure, and legal stuff. | Builds credibility and context.                   |
+| [**Products/Services**]()        | Detailed look at what you offer, how it’s made, and lifecycle. | Demonstrates innovation and market fit.          |
+| [**Organization & Team**]()      | Who's running the show, their skills, and info systems support. | Proves you have the talent and tools to win.     |
+| [**Market Analysis**]()          | Market size, customer segmentation, competition. | Shows you’ve done your homework on where you play. |
+| [**Industry & Trends**]()        | The wider ecosystem, trends, risks, and opportunities. | Positions your startup against market shifts.   |
+| [**Marketing Strategy**]()       | How you'll create demand and steal customers from competitors. | Drives growth and customer acquisition.          |
+| [**Financial Plan**]()           | Cash flow, break-even, ROI, IRR, KPIs, projections. | Validates business viability and return potential. |
+| [**Appendices**]()               | Extra docs that back up your claims.               | Adds proof and depth without cluttering main plan.|
 
 
 
-<br><br>
+<br>
 
 ##  [Marketing](): Create That Need 🔥
 
 Don’t just advertise, make them NEED you. Build that desire, solve a problem, and watch customers flock.
 
 
-<br><br>
+<br>
 
 
 
