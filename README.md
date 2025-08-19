@@ -48,14 +48,14 @@ This space is open for collaboration: explore, share, and enhance your skills al
 
 
 ## I -  [**Entrepreneurship**](): 
-### Taking Risks, Identifying Opportunities, and Creating Profitable 
+### Taking Risks, Identifying Opportunities, and [Creating Profitable]() 
 
 
 <br>
 
+### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_1-Entrepreneurship/Entrepreneurship.pdf) to launch the deck!
 
-
-<br>
+<br><br>
 
 
 Entrepreneurship is the process of creating and growing new businesses by transforming innovative ideas into profitable ventures. A key characteristic of successful entrepreneurs is their willingness to assume risk. Taking risks involves stepping into uncertainty, making decisions without guaranteed outcomes, and being ready to face challenges and setbacks. However, it is this calculated risk-taking that often leads to breakthrough innovations and significant rewards.
@@ -93,16 +93,16 @@ Another misconception is that only completely original and revolutionary ideas l
 
 <br>
 
-### 💥 [Click here]() to launch the deck!
+### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_2-Business%20Plan-Angel%20Investor/Business%20Plan-Angel%20Investor.pdf) to launch the deck!
 
-<br>
+<br><br>
 
 
 The ultimate [*startup hustle guide*]()*. Nail the moves to launch your business and make investors ✍🏻 ask, ["Where do I sign?"]()
 
-Packed with insights from [*Business Plan & Angel Investor*]() (Prof. Wagner Tufano, 2025), this section blends strategy with hustle so you can pitch, scale, and thrive—fast. ⚡
+Packed with insights from [*Business Plan & Angel Investor*]() (Prof. Wagner Tufano, 2025), this section blends strategy with hustle so you can pitch, scale, and thrive—fast. 💥
 
-
+<br>
 
 
 
