@@ -55,7 +55,7 @@ This space is open for collaboration: explore, share, and enhance your skills al
 
 ### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_1-Entrepreneurship/Entrepreneurship.pdf) to launch the deck!
 
-<br><br>
+<br>
 
 
 Entrepreneurship is the process of creating and growing new businesses by transforming innovative ideas into profitable ventures. A key characteristic of successful entrepreneurs is their willingness to assume risk. Taking risks involves stepping into uncertainty, making decisions without guaranteed outcomes, and being ready to face challenges and setbacks. However, it is this calculated risk-taking that often leads to breakthrough innovations and significant rewards.
@@ -95,7 +95,7 @@ Another misconception is that only completely original and revolutionary ideas l
 
 ### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_2-Business%20Plan-Angel%20Investor/Business%20Plan-Angel%20Investor.pdf) to launch the deck!
 
-<br><br>
+<br>
 
 
 The ultimate [*startup hustle guide*]()*. Nail the moves to launch your business and make investors ✍🏻 ask, ["Where do I sign?"]()
@@ -156,6 +156,18 @@ Don’t just advertise, make them NEED you. Build that desire, solve a problem, 
 
 <br>
 
+
+## [Finance}(): Keep Your Cash Flowing 💰
+
+Master your cash game with:
+
+- [Real or forecasted cash flow]():
+- [Break-even]() points
+- [Profit and loss]() statements
+- [KPIs]() (yeah, those buzzwords matter)
+- [ROI]() and [IRR]() to prove you’re worth it
+
+<br>
 
 
 
