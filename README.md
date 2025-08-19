@@ -91,9 +91,20 @@ Another misconception is that only completely original and revolutionary ideas l
 
 ## II  - [Business Plan and Angel Investor]() 
 
-The ultimate [**startup hustle guide**]()! This is where we break down the key moves you gotta nail to get your business off the ground and make those investors say ✍🏻 ["where Do I Sign?"]() 
+<br>
 
-This section unpacks the essentials from [*Business Plan and Angel Investor*]() (Prof. Wagner Tufano, 2025) and blends them with the startup grind so you can pitch, scale, and thrive.  
+### 💥 [Click here]() to launch the deck!
+
+<br>
+
+
+The ultimate [*startup hustle guide*]()*. Nail the moves to launch your business and make investors ✍🏻 ask, ["Where do I sign?"]()
+
+Packed with insights from [*Business Plan & Angel Investor*]() (Prof. Wagner Tufano, 2025), this section blends strategy with hustle so you can pitch, scale, and thrive—fast. ⚡
+
+
+
+
 
 
 
