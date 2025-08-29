@@ -65,9 +65,21 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 > - [Healthtechs](https://startups.com.br/negocios/healthtechs/)
 >
+> - [Foodtech](https://startups.com.br/negocios/foodtech/)
+>
+> - [HRTech](https://startups.com.br/negocios/hrtech/)
+>
+> - [IDTech](https://startups.com.br/negocios/idtech/)
+>
+> - [Insurtech](https://startups.com.br/negocios/insurtech/)
+>
+> - [Proptechs](https://startups.com.br/negocios/proptechs/)
 >
 >
 >
+>
+
+
 
 
 
