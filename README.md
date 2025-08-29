@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > - [Angel Investment](https://startups.com.br/negocios/investimento-anjo/)
 >
->   
+> - [Founder Launcher](https://www.youtube.com/@ycombinator/featured) 
 >
 >  
 
