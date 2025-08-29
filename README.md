@@ -37,7 +37,10 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * [**Confidential information**]() from this repository remains private in [private repositories]().
 >
+> * [**Confidential information**]() from this repository remains private in [private repositories]().
 >
+>
+
 
 #  
 
@@ -60,11 +63,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 > - [GovTech](https://startups.com.br/negocios/govtechs/)
 > 
-> 
-
-
-
-
+> - [Healthtechs](https://startups.com.br/negocios/healthtechs/)
+>
+>
+>
+>
 
 
 
