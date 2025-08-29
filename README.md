@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 > - [Startups Digital Magazine](https://startups.com.br/)
 > 
-> 
+> - [Startups - Fintech](https://startups.com.br/negocios/fintech/)
 > 
 > 
 > 
@@ -53,7 +53,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
-<br><br>
+
+
+
+<br><br><br>
+
 
 
 
