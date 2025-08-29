@@ -54,8 +54,14 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 > - [Startups - Fintech](https://startups.com.br/negocios/fintech/)
 > 
+> - [Innovation](https://startups.com.br/negocios/inovacao/)
+> 
+> - [Open Innovation](https://startups.com.br/negocios/inovacao-aberta/)
+> 
+> - [GovTech](https://startups.com.br/negocios/govtechs/)
 > 
 > 
+
 
 
 
