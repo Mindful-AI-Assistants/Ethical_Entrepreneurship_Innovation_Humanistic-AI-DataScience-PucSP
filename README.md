@@ -624,16 +624,17 @@ This repo also considers decentralization concepts:
 - Intuitive UI/UX fostering broad adoption and participation.
 
 
+<br><br>
+
+## Top 10 Tools for Ethical AI Development
+
+<br>
+
+As AI systems become more widespread, it is essential to address potential risks and biases. This section presents the top tools for developing ethical AI, ensuring that systems are fair, transparent, private, and secure.
 
 
+<br><br>
 
-
-
-
-
-
-
-```markdown
 
 | Ferramentas                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------|
@@ -648,8 +649,11 @@ This repo also considers decentralization concepts:
 | [Deon by DrivenData](https://deon.drivendata.org/)                                                                              |
 | [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                        |
 
-Estas ferramentas apoiam o desenvolvimento de sistemas de IA confiáveis, promovendo inovação com respeito à justiça, privacidade, transparência e segurança.
-```
+
+<br>
+
+These tools support the development of trustworthy AI systems, promoting innovation with respect for fairness, privacy, transparency, and security.
+
 
 
 
