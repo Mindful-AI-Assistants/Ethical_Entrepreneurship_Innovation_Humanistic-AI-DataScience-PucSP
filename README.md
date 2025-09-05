@@ -650,7 +650,7 @@ As AI systems become more widespread, it is essential to address potential risks
 | [Deon by DrivenData](https://deon.drivendata.org/)                                                                               | Adds ethics checklist to data science projects                                                 |
 | [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                         | Identifies ethical risks and harms                                                            |
 
-<br
+<br>
   
 
 > [!IMPORTANT]
