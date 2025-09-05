@@ -554,7 +554,7 @@ flowchart TD
 
 <br><br>
 
-```markdown
+````mermaid
 flowchart TD
     T[Customer Transaction] --> P[InferenceOps Platform]
     P --> M[Centralized Fraud Model]
