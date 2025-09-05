@@ -357,9 +357,9 @@ Entrepreneurship in **AI and Data Science** is driven by creativity, innovation,
 
 <br>
 
-- Many organizations fall into the trap of maintaining traditions with the motto, “If it’s working, don’t change it”  ❌.
+- Many organizations fall into the trap of maintaining traditions with the motto, [“If it’s working, don’t change it”]()  ❌.
 
-- A shift in mindset is needed: “If the team is winning, improve it” (“Em time que está ganhando, se MELHORA” ✅. This approach encourages constant enhancement, not complacency.
+- A shift in mindset is needed: [“If the team is winning, improve it”]() ✅.  This approach encourages constant enhancement, not complacency.
 
 
 <br>
