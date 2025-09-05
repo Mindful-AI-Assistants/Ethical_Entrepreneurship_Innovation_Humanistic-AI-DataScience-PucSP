@@ -315,6 +315,8 @@ Don’t just advertise, make them [NEED YOU](). Build that desire, solve a probl
 - **Physical Activity:** Practices like walking can boost mental clarity and creativity.
 
 
+<br>
+
 ## Inspirational Quotes
 
 <br>
@@ -327,6 +329,7 @@ Don’t just advertise, make them [NEED YOU](). Build that desire, solve a probl
 >
 > “A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.”
 >
+
 
 <br><br>
 
