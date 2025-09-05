@@ -334,6 +334,118 @@ Don’t just advertise, make them [NEED YOU](). Build that desire, solve a probl
 <br><br>
 
 
+# IV - [Entrepreneurship in AI/Data Science]()
+
+<br>
+
+### ⚡️ [Click here]() to launch the deck!
+
+<br><br>
+
+
+## [Overview]()
+
+Entrepreneurship in **AI and Data Science** is driven by creativity, innovation, and the willingness to overcome barriers that impede progress. True entrepreneurs recognize that failures are learning opportunities and persistence is key to success. Platforms like **Kahoot.it** are often used for interactive learning and assessment, helping to foster engagement and creative thinking during lessons and workshops.[^1]
+
+<br>
+
+## [Innovation Barriers]()
+
+<br>
+
+### [Cultural Blockages]()
+
+<br>
+
+- Many organizations fall into the trap of maintaining traditions with the motto, “If it’s working, don’t change it”  ❌.
+
+- A shift in mindset is needed: “If the team is winning, improve it” (“Em time que está ganhando, se MELHORA” ✅. This approach encourages constant enhancement, not complacency.
+
+
+<br>
+
+### [Other Blockages]()
+
+- **Environmental/Organizational:** Stressful, distracting, or unsupportive environments stifle innovation.[^1]
+- **Intellectual/Communication:** Misinformation, rigid thinking, and unclear expression create obstacles.[^1]
+- **Emotional:** Fears, uncertainties, or negative attitudes can hold innovators back.[^1]
+- **Perceptual:** Stereotypes and imagined limits prevent seeing alternative solutions; information overload can also be a barrier.[^1]
+
+
+<br>
+
+### [Anti-Perceptual Blockage Phrase]()
+
+<br>
+
+> [!IMPORTANT]
+> 
+>  Not knowing it was impossible, he went there and did it!
+
+
+<br><br>
+
+## [Practices to Foster Innovation \& Creativity]()
+
+<br>
+
+- **Listen More, Speak More:** Genuine listening and open communication help surface new ideas.
+- **Decompose Objects:** Break down a problem into smaller parts to identify new functionalities and perspectives.
+- **Brainstorm New Uses:** Challenge the standard use of objects and data; a chair is not just for sitting, it can help change a light bulb or cover a plant.
+- **Consult Dictionaries:** Explore synonyms and multiple meanings for a broader set of solutions to problems.
+- **Store Ideas:** Write and revisit ideas often, as they can evolve over time.
+- **Continuous Learning:** Reading widely and attending cultural or artistic events can spark creativity.
+- **Focused Attention:** Devote your full attention to tasks to notice opportunities.
+- **Play Brain Games:** Engage in puzzles, Sudoku, or strategic games to stimulate alternative thinking.
+
+
+<br>
+
+## [Walking as a Tool for Innovation]()
+
+The practice of **walking alone** is recommended for fostering unexpected associations and expanding conscious awareness, as it connects mind, body, and spirit. This approach is highlighted in the video referenced in the Presenation.
+
+- Watch the video: [Walking for innovation](https://www.youtube.com/watch?v=rsOBLOTCCLO)
+
+
+<br>
+
+## [Neuroscience and Trauma Processing]()
+
+The role of **EMDR therapy (Eye Movement Desensitization and Reprocessing)** is mentioned for its neurological basis in processing trauma, showing how brain activity and movement can support creativity and problem-solving.
+
+
+
+<br><br>
+
+
+# IV - [X]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
