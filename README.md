@@ -624,6 +624,48 @@ This repo also considers decentralization concepts:
 - Intuitive UI/UX fostering broad adoption and participation.
 
 
+
+
+
+
+
+
+
+
+
+```markdown
+
+| Ferramentas                                                                                                                    |
+|-------------------------------------------------------------------------------------------------------------------------------|
+| [TensorFlow's Responsible AI Toolkit](https://www.tensorflow.org/responsible_ai)                                               |
+| [Microsoft Responsible AI Toolbox](https://responsibleaitoolbox.ai/)                                                           |
+| [IBM AI Explainability 360](https://aix360.res.ibm.com/)                                                                        |
+| [Amazon SageMaker Clarify](https://aws.amazon.com/sagemaker/clarify/)                                                          |
+| [Google's What-If Tool](https://pair-code.github.io/what-if-tool/)                                                             |
+| [Fairness Indicators by TensorFlow](https://www.tensorflow.org/tfx/guide/fairness_indicators)                                   |
+| [AI Fairness 360 by IBM](https://ai-fairness-360.org/)                                                                          |
+| Ethics & Algorithms Toolkit by PwC                                                                                             |
+| [Deon by DrivenData](https://deon.drivendata.org/)                                                                              |
+| [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                        |
+
+Estas ferramentas apoiam o desenvolvimento de sistemas de IA confiáveis, promovendo inovação com respeito à justiça, privacidade, transparência e segurança.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
 
