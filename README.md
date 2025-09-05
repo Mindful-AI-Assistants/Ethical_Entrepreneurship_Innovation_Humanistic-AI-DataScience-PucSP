@@ -637,7 +637,17 @@ As AI systems become more widespread, it is essential to address potential risks
 
 <br><br>
 
-|Aqui está a tabela revisada dividida em duas partes, com os links incluídos na primeira coluna como solicitado:
+<br>
+  
+
+> [!IMPORTANT]
+>
+> * These tools support the development of trustworthy AI systems, promoting innovation with respect for fairness, privacy, transparency, and security.
+>
+
+
+<br><br>
+
 
 | Purpose and Link                                                                                                              | Description                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -652,13 +662,7 @@ As AI systems become more widespread, it is essential to address potential risks
 | [Deon by DrivenData](https://deon.drivendata.org/)                                                                               | Adds ethics checklist to data science projects                                                 |
 | [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                         | Identifies ethical risks and harms                                                            |
 
-<br>
-  
 
-> [!IMPORTANT]
->
-> * These tools support the development of trustworthy AI systems, promoting innovation with respect for fairness, privacy, transparency, and security.
->
 
 
 <br><br>
