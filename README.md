@@ -779,6 +779,37 @@ Language shapes thought and creativity:
 <br>
 
 
+## Influential People to Surround Yourself With
+
+To cultivate creativity and innovative spirit, it is vital to be around:
+
+- Inspired individuals
+- Motivated people
+- Open-minded thinkers
+- Passionate creators
+- Grateful personalities
+
+<br>
+
+## Formula for Innovation
+
+Innovation can be succinctly defined as:
+
+<br><br>
+
+$$
+\Huge
+\text{Innovation} = \text{Idea} + \text{Actions} + \text{Results}
+$$
+
+<br>
+
+```latex
+\Huge
+\text{Innovation} = \text{Idea} + \text{Actions} + \text{Results}
+```
+
+<br><br>
 
 
 
