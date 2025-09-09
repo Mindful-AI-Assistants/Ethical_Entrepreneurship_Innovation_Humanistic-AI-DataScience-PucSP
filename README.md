@@ -757,8 +757,26 @@ Language shapes thought and creativity:
 <br>
 
 
+## Thinking Differently
+
+- Creativity involves seeing things from novel perspectives.
+- Multiple valid viewpoints may exist regarding what is "different."
+- Creativity is relative to the observer’s perspective — what seems ordinary to some may be innovative to others.
 
 
+<br>
+
+## Characteristics of Highly Creative and Innovative People
+
+- They work and learn during their preferred hours.
+- They seek new experiences regularly.
+- Tend to daydream and imagine possibilities.
+- Engage in activities they are passionate about.
+- Treat life itself as an artistic creation.
+- Surround themselves with beauty inspiring creativity.
+
+
+<br>
 
 
 
