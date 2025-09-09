@@ -81,9 +81,10 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > - [Founder Launcher](https://www.youtube.com/@ycombinator/featured) 
 >
->  
-
-
+> - [Business Plan 1]()
+>
+> - [Business Plan 2]()
+>
 
 
 
