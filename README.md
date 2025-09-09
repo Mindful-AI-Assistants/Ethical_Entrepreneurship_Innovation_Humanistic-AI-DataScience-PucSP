@@ -729,9 +729,42 @@ Language shapes thought and creativity:
 - Avoid vague language for clearer communication.
 - Play word games to reinforce vocabulary.
 - Write often and jot down new words.
+- Practice using new vocabulary in conversations with diverse people.
+
+<br>
+
+## Building a Creative Vocabulary
+
+Language shapes thought and creativity:
+
+- Use synonyms to express ideas diversely.
+- Read daily to encounter new words.
+- Consult dictionaries to deepen understanding.
+- Avoid vague language for clearer communication.
+- Play word games to reinforce vocabulary.
+- Write often and jot down new words.
+- Practice using new vocabulary in conversations with diverse people.
+
+<br>
+
+## Creativity Across Ages and Perspectives
+
+- Creativity is highest in early childhood and tends to decline with age, but can be nurtured throughout life.
+- Recognizing one's creativity may be challenging socially, but it manifests in unexpected ways.
+- Creativity is often "intelligence having fun," promoting playful problem-solving.
 
 
 <br>
+
+
+
+
+
+
+
+
+
+
 
 
 
