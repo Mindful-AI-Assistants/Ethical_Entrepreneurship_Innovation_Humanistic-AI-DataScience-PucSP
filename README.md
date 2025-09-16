@@ -971,6 +971,41 @@ Radical innovation requires heavy marketing investment to educate customers and 
 
 <br><br>
 
+### [Radical Innovation Timeline (Python)]()
+
+<br>
+
+```python
+import matplotlib.pyplot as plt
+
+innovations = ['Martin Cooper Mobile Phone (1973)', 'Google Search (1998)', 'Amazon Marketplace (1995)', 'Apple iPhone (2007)']
+years = [^1973][^1998][^1995][^2007]
+
+plt.barh(innovations, years, color='mediumseagreen')
+plt.xlabel('Year')
+plt.title('Radical Innovation Timeline')
+plt.gca().invert_yaxis()
+plt.show()
+```
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
