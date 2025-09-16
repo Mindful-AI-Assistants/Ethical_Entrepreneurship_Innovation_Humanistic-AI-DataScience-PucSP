@@ -842,7 +842,7 @@ This exercise stimulates lateral thinking and collaborative creativity.
 
 
 
-# VI - [X]()
+# VI -  [Comprehensive Overview of Innovation Types and Strategic Insights]()
 
 <br><br>
 
@@ -853,7 +853,7 @@ This exercise stimulates lateral thinking and collaborative creativity.
 
 
 
-
+Michael Porter, Disruptive Innovation, and Incremental Innovation: Strategic Insights and Brazilian Examples
 
 
 
