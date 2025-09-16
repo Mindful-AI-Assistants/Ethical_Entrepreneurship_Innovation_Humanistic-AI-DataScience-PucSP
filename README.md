@@ -877,12 +877,17 @@ Michael Porter is the pioneer of frameworks such as the Five Forces and generic 
 
 ## Innovation Types
 
+<br><br>
+
+| Type            | Definition                                                                                                   | Characteristics                                                   | Examples                                                       |
+|-----------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| Incremental     | Continuous improvements to existing products/processes                                                     | Low risk, builds on current tech, improves efficiency          | Coca-Cola Brazil new flavors, Havaianas customizable sandals  |
+| Disruptive      | Creates new markets initially serving underserved segments, eventually displacing incumbents                | Starts simple, low cost, market-creating                        | Gol low-cost airline, Tesla electric cars, Apple iPhone       |
+| Radical         | Breakthroughs creating entirely new markets or transforming industries                                      | High risk/investment, requires marketing, transformational      | Martin Cooper mobile phone, iPhone, Google Search, Amazon     |
+| Open Innovation | Using external resources through partnerships to boost internal innovation                                  | Collaborative, ecosystem-driven                                 | Corporate innovation labs, university partnerships            |
 
 
-
-
-
-
+<br><br>
 
 
 
