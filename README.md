@@ -992,9 +992,31 @@ plt.show()
 <br><br>
 
 
+## TV 3D Commerce: KPIs and Metrics
+
+<br>
+
+Critical KPIs for measuring TV 3D commerce success:
+
+<br>
+
+[-]( Conversion Rate (%)
+
+[-]( Average Order Value (AOV)
+
+[-]( Customer Acquisition Cost (CAC)
+
+[-]( Engagement Rate (%)
+
+[-]( Drop-off Rates
+
+[-]( Customer Satisfaction/NPS
+
+[-]( Return Rate
 
 
 
+<br><br>
 
 
 
