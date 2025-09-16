@@ -947,7 +947,29 @@ plt.show()
 ```
 
 
+<br><br>
 
+
+## [Radical Innovation and Marketing]()
+
+<br>
+
+Radical innovation requires heavy marketing investment to educate customers and foster adoption due to its novel value proposition.
+
+<br><br>
+
+### [**Key Examples:**]()
+
+[-]() Martin Cooper’s mobile phone (1973)
+
+[-]() Apple iPhone (2007)
+
+[-]() Google Search (1998)
+
+[-]() Amazon Marketplace (1990s-Now)
+
+
+<br><br>
 
 
 
