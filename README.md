@@ -611,7 +611,7 @@ for log in platform.audit_logs():
 <br><br>
 
 
-### Best Practices for Implementing InferenceOps
+### [Best Practices for Implementing InferenceOps]()
 
 - Centralized infrastructure with auto-scaling GPU/TPU clusters.
 - Strong governance: version control, bias monitoring, transparency.
@@ -624,11 +624,11 @@ for log in platform.audit_logs():
 <br><br>
 
 
-### Integration of Decentralized AI Principles from MIT Paper
+### [Integration of Decentralized AI Principles from MIT Paper]()
 
 <br>
 
-This repo also considers decentralization concepts:
+[This repo also considers decentralization concepts]():
 
 - Privacy-preserving multi-party computation.
 - Verifiable contribution without explicit trust assumptions.
@@ -639,7 +639,7 @@ This repo also considers decentralization concepts:
 
 <br><br>
 
-## Top 10 Tools for Ethical AI Development
+## [Top 10 Tools for Ethical AI Development]()
 
 <br>
 
@@ -865,7 +865,7 @@ This exercise stimulates lateral thinking and collaborative creativity.
 <br><br>
 
 
-## Michael Porter and Competitive Strategy
+## [Michael Porter and Competitive Strategy]()
 
 <br>
 
@@ -875,11 +875,11 @@ Michael Porter is the pioneer of frameworks such as the Five Forces and generic 
 
 <br><br>
 
-## Innovation Types
+## [Innovation Types]()
 
 <br><br>
 
-| Type            | Definition                                                                                                   | Characteristics                                                   | Examples                                                       |
+| [Type           | [Definition]()                                                                                                | [Characteristics]()                                               | Examples]()                                                      |
 |-----------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|
 | Incremental     | Continuous improvements to existing products/processes                                                     | Low risk, builds on current tech, improves efficiency          | Coca-Cola Brazil new flavors, Havaianas customizable sandals  |
 | Disruptive      | Creates new markets initially serving underserved segments, eventually displacing incumbents                | Starts simple, low cost, market-creating                        | Gol low-cost airline, Tesla electric cars, Apple iPhone       |
