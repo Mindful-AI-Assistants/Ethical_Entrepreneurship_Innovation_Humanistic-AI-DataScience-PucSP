@@ -921,6 +921,30 @@ Michael Porter is the pioneer of frameworks such as the Five Forces and generic 
 
 
 
+## [Photography Innovation Evolution with Python Example]()
+
+<br>
+
+### [Shows analogy of incremental innovation via image processing]():
+
+<br>
+
+```python
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+
+image = cv2.imread('sample.jpg')  \# Use appropriate file path
+gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+kernel = np.array([[0, -1, 0], [-1, 5, -1], [0, -1, 0]])
+sharpened = cv2.filter2D(gray, -1, kernel)
+
+plt.subplot(131); plt.title('Original (Color)'); plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB)); plt.axis('off')
+plt.subplot(132); plt.title('Analog (Grayscale)'); plt.imshow(gray, cmap='gray'); plt.axis('off')
+plt.subplot(133); plt.title('Incremental (Sharpened)'); plt.imshow(sharpened, cmap='gray'); plt.axis('off')
+plt.show()
+```
 
 
 
