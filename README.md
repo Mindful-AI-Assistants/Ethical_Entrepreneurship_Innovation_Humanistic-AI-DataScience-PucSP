@@ -850,12 +850,18 @@ This exercise stimulates lateral thinking and collaborative creativity.
 > 
 >  [Click here]() ⚡️
 >
-
-
-
-Michael Porter, Disruptive Innovation, and Incremental Innovation: Strategic Insights and Brazilian Examples
-
-
+> ## Contents
+>  * Michael Porter’s Competitive Strategy
+>  * Types of Innovation: Incremental, Disruptive, Radical, Open Innovation
+>  * Photography Innovation Case Study with Python Code
+>  * Radical Innovation: Creativity, Marketing, Historical Examples
+>  * Innovation Timeline Visualization (Python)
+>  * TV 3D Commerce: Metrics & KPIs with Code Implementation
+>  * Advanced Innovation Analytics: Machine Learning Metrics
+>  * Ambidextrous Organizations and Their Importance
+>  * The Kindle Revolution as a Composite Innovation Example
+>
+>
 
 
 
