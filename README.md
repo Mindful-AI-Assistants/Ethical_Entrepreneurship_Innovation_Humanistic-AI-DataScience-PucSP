@@ -470,8 +470,10 @@ The role of [**EMDR therapy (Eye Movement Desensitization and Reprocessing)**]()
 
 > [!TIP]
 > 
->  ## [Explore our project repo](https://github.com/Mindful-AI-Assistants/InferenceOps-Embedded-Innovation) 🔥 that’s where the magic happens  
+>  ## Explore our Project [InferenceOps: Scalable, Governed, and Ethical AI](https://github.com/Mindful-AI-Assistants/InferenceOps-Embedded-Innovation) 🔥 that’s where the magic happens  
 >
+> 
+
 
 
 <br><br>
