@@ -344,11 +344,11 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 >
 > ### 👌
 > 
-> ### “Creativity always means doing the unfamiliar.” — [Eleanor Roosevel]()
+> ### **Creativity always means doing the unfamiliar.** — [Eleanor Roosevel]()
 >
-> ### “Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.” —[Bill Gates]()
+> ### **Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.** — [Bill Gates]()
 >
-> ### “A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.”
+> ### **A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.**
 >
 
 
