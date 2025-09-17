@@ -1000,63 +1000,61 @@ Critical KPIs for measuring TV 3D commerce success:
 
 <br>
 
-[-]( Conversion Rate (%)
+[-]() Conversion Rate (%)
 
-[-]( Average Order Value (AOV)
+[-]()  Average Order Value (AOV)
 
-[-]( Customer Acquisition Cost (CAC)
+[-]()  Customer Acquisition Cost (CAC)
 
-[-]( Engagement Rate (%)
+[-]()  Engagement Rate (%)
 
-[-]( Drop-off Rates
+[-]()  Drop-off Rates
 
-[-]( Customer Satisfaction/NPS
+[-]()  Customer Satisfaction/NPS
 
-[-]( Return Rate
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[-]()  Return Rate
 
 
 
 <br><br>
-<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 <br><br>
 <br><br>
@@ -1074,6 +1072,47 @@ Critical KPIs for measuring TV 3D commerce success:
 <br><br>
 <br><br>
 <br><br>
+<br><br>
+<br><br>
+<br><br>
+
+ ##  [References / Bibliography]()
+   
+<br><br>    
+
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {
+    'primaryColor': '#1abc9c',
+    'edgeLabelBackground':'#1abc9c',
+    'lineColor': '#1abc9c',
+    'secondaryColor':'#16a085',
+    'tertiaryColor':'#0e6655',
+    'fontSize':'16px',
+    'fontFamily':'Arial',
+    'textColor':'#ffffff'
+}}}%%
+flowchart TD
+    A[📚 InferenceOps Knowledge Base] --> B[AI Ethics]
+    A --> C[Machine Learning Foundations]
+    A --> D[Industry & Practice]
+    A --> E[Innovation & Entrepreneurship]
+
+    B --> B1["Floridi, L. (2019). The Ethics of Artificial Intelligence. OUP"]
+    B --> B2["EU AI Act (2024)"]
+    B --> B3["Brazil LGPD (2020)"]
+
+    C --> C1["Goodfellow, I., Bengio, Y., Courville, A. (2016). Deep Learning. MIT Press"]
+    C --> C2["Jordan, M. & Mitchell, T. (2015). Machine Learning: Trends, Perspectives, and Prospects. Science"]
+
+    D --> D1["TitanML (2025). Inference Engine: Efficient AI at Scale. titanml.co"]
+    D --> D2["Hugging Face — Model Hub"]
+    D --> D3["RunAI — GPU Orchestration"]
+
+    E --> E1["Course: Entrepreneurship & Innovation — PIUC-SP"]
+    E --> E2["Guidance: Prof. Wagner"]
+```
+
 <br><br>
 
 
@@ -1094,6 +1133,8 @@ Critical KPIs for measuring TV 3D commerce success:
 [-]() TitanML. (2025). TitanML Inference Engine: Efficient AI at Scale. Retrieved from https://www.titanml.co
 
 [-]() Various articles on Brazilian innovation cases, business strategies, and market disruptions.
+
+
 
 
 
