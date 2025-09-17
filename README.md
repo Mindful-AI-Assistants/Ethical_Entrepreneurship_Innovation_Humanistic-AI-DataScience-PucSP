@@ -212,7 +212,9 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 ##  [Marketing](): 🔥 Create That Need 
 
-Don’t just advertise, make them [NEED YOU](). Build that desire, solve a problem, and watch customers flock.
+<br>
+
+### Don’t just advertise, make them [NEED YOU](). Build that desire, solve a problem, and watch customers flock.
 
 
 <br>
