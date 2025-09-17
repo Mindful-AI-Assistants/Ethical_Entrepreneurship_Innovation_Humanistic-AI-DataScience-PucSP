@@ -466,7 +466,7 @@ The role of [**EMDR therapy (Eye Movement Desensitization and Reprocessing)**]()
 
 > [!TIP]
 > 
->  ⚡️ [Click here]() to launch the deck!
+>  [Explore our project repo — that’s where the magic happens ](https://github.com/Mindful-AI-Assistants/InferenceOps-Embedded-Innovation) 🔥
 >
 
 
