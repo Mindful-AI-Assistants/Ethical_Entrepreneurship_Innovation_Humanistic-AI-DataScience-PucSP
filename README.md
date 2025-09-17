@@ -265,7 +265,7 @@ Don’t just advertise, make them [NEED YOU](). Build that desire, solve a probl
 
 > [!TIP]
 >
-> 👌 ***Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world***
+> ### 👌 ***Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world***
 > 
 
 <br><br>
@@ -273,7 +273,7 @@ Don’t just advertise, make them [NEED YOU](). Build that desire, solve a probl
 
 # III  - [Innopvation and Creativity IN AI /DATA SCIENCE]() 
 
-<br>
+<br><br>
 
 ### ⚡️ [Click here]() to launch the deck!
 
@@ -339,12 +339,14 @@ Don’t just advertise, make them [NEED YOU](). Build that desire, solve a probl
 <br>
 
 > [!IMPORTANT]
+>
+> ### 👌
 > 
-> “Creativity always means doing the unfamiliar.” — Eleanor Roosevelt[^1]
+> ### “Creativity always means doing the unfamiliar.” — Eleanor Roosevelt[^1]
 >
-> “Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.” — Bill Gates
+> ### “Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.” — Bill Gates
 >
-> “A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.”
+> ### “A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.”
 >
 
 
@@ -353,7 +355,7 @@ Don’t just advertise, make them [NEED YOU](). Build that desire, solve a probl
 
 # IV - [Entrepreneurship in AI/Data Science]()
 
-<br>
+<br><br>
 
 ### ⚡️ [Click here]() to launch the deck!
 
@@ -385,7 +387,7 @@ Entrepreneurship in **AI and Data Science** is driven by creativity, innovation,
 
 > [!TIP]
 >
->  ## 👌   [***This approach encourages constant enhancement, not complacency.***]()
+>  ###  [***This approach encourages constant enhancement, not complacency.***]()
 >
 
 
@@ -413,7 +415,7 @@ Entrepreneurship in **AI and Data Science** is driven by creativity, innovation,
 
 > [!IMPORTANT]
 > 
-> # 👌 [***Not knowing it was impossible, he went there and did it !***]()
+> ## 👌 [***Not knowing it was impossible...***, [he went there and did it ! ]()
 >
 >
 
