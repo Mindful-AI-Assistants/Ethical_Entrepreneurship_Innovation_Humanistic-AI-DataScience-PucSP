@@ -267,7 +267,7 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 > [!TIP]
 >
-> ### 👌 ***Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world***
+> ### 👌 *Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world*
 > 
 
 <br><br>
@@ -344,9 +344,9 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 >
 > ### 👌
 > 
-> ### “Creativity always means doing the unfamiliar.” — Eleanor Roosevelt[^1]
+> ### “Creativity always means doing the unfamiliar.” — [Eleanor Roosevel]()
 >
-> ### “Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.” — Bill Gates
+> ### “Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.” —[Bill Gates]()
 >
 > ### “A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.”
 >
