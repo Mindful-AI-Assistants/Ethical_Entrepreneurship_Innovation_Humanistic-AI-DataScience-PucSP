@@ -417,7 +417,7 @@ Entrepreneurship in **AI and Data Science** is driven by creativity, innovation,
 
 > [!IMPORTANT]
 > 
-> ## 👌 [***Not knowing it was impossible...***, [he went there and did it ! ]()
+> ## 👌 ***Not knowing it was impossible...***, [he went there and did it ! ]()
 >
 >
 
@@ -470,7 +470,7 @@ The role of [**EMDR therapy (Eye Movement Desensitization and Reprocessing)**]()
 
 > [!TIP]
 > 
->  [Explore our project repo — that’s where the magic happens ](https://github.com/Mindful-AI-Assistants/InferenceOps-Embedded-Innovation) 🔥
+>  ## [Explore our project repo](https://github.com/Mindful-AI-Assistants/InferenceOps-Embedded-Innovation) 🔥 that’s where the magic happens  
 >
 
 
