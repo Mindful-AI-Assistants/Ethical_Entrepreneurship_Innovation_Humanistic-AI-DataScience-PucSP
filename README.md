@@ -417,7 +417,7 @@ Entrepreneurship in **AI and Data Science** is driven by creativity, innovation,
 
 > [!IMPORTANT]
 > 
-> ## 👌 ***Not knowing it was impossible...***, [he went there and did it ! ]()
+> ## 👌 ***Not knowing it was impossible...*** [he went there and did it ! ]()
 >
 >
 
