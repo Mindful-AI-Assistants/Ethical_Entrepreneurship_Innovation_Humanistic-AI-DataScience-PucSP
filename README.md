@@ -2,6 +2,10 @@
 
 ##   <p align="center"> [Humanistic]() Data Science and Artificial Intelligence (CDIA): [**Ethical Entrepreneurships**]()
 
+<br>
+
+### [Professor Wagner’s YouTube channe]()
+
 
 <br><br>
 
